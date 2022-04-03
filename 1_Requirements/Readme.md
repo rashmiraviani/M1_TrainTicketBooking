@@ -23,8 +23,7 @@ The main goal of our project is to provide various types of customer facilities,
 ### Defining Our System
 ### Explanation
 Train Ticket Booking System have few inbuilt features like
-      Admin
-    * Login 
+      
     * Can Change Price of a Ticket.
     * Can View the Reserved Tickets.
     * Exit System.
